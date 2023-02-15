@@ -1,3 +1,4 @@
 Screenshot of work github account to track green squares
 
-![image](https://user-images.githubusercontent.com/7874705/213867288-b4739bde-61e3-4263-bf92-f2d4f4159732.png)
+![image](https://user-images.githubusercontent.com/7874705/219025869-b7541cc9-04b0-49cb-b24c-d6a418721be0.png)
+
