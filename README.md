@@ -1,5 +1,7 @@
-Screenshot of work github account to track green squares
+Screenshot of my work github account to track green squares.
+Note: As of March 2023, all my merges were "Squashed Commits" which is why there aren't many brighter green squares after that point in time. 
 
-![image](https://github.com/avcoder/github-stars-2023/assets/7874705/48ce1fcd-2fa4-4a06-8499-d89798d3d250)
+![image](https://github.com/avcoder/github-stars-2023/assets/7874705/96af1ab6-646c-4ef1-9c48-2c4fc135cdc5)
+
 
 
