@@ -1,7 +1,14 @@
-Screenshot of my private work github account to track green squares (as of Dec 19 2023).
-Note: As of March 2023, all my merges were "Squashed Commits" which is why there aren't many brighter green squares after that point in time. 
+Screenshot of my private work github account to track green squares 
 
-![image](https://github.com/avcoder/view-contributions-green-squares-2023/assets/7874705/8f5ebed9-e5e0-4f7e-b4a5-addb766906c9)
+### 2024 (last updated: Jan. 3 2024)
+![image](https://github.com/avcoder/view-contributions-green-squares-2023/assets/7874705/cea960b2-18c9-4471-9a4c-f2099f8ba0f7)
+
+### 2023 
+Note: As of March 2023, all my merges were "Squashed Commits" which is why there aren't many brighter green squares after that point in time. 
+![image](https://github.com/avcoder/view-contributions-green-squares-2023/assets/7874705/9ae8ff00-0b78-4702-b2ee-2309394e59cd)
+
+### 2022
+![image](https://github.com/avcoder/view-contributions-green-squares-2023/assets/7874705/f58fd320-b9c1-4cb5-928f-9379031d1d79)
 
 
 
