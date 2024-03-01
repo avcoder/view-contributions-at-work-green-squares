@@ -1,8 +1,7 @@
 Screenshot of my private work github account to track green squares 
 
-### 2024 (last updated: Feb. 5 2024)
-![image](https://github.com/avcoder/view-contributions-at-work-green-squares/assets/7874705/90441f79-b490-41c4-a275-1ccaa9e2aae6)
-
+### 2024 (last updated: Mar. 1 2024)
+![image](https://github.com/avcoder/view-contributions-at-work-green-squares/assets/7874705/c0782aaa-dda1-4d3a-9817-c11419d78e2a)
 
 ### 2023 
 Note: As of March 2023, all my merges were "Squashed Commits" which is why there aren't many brighter green squares after that point in time. 
