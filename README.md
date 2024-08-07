@@ -1,7 +1,8 @@
 Screenshot of my private work github account to track green squares 
 
-### 2024 (last updated: Jul. 4 2024)
-![image](https://github.com/avcoder/view-contributions-at-work-green-squares/assets/7874705/b46474cb-d1f4-4c88-801f-332cf59f09f6)
+### 2024 (last updated: Aug. 7 2024)
+![image](https://github.com/user-attachments/assets/3af347f6-54f3-43be-a1e9-eb10cf3472ee)
+
 
 
 ### 2023 
