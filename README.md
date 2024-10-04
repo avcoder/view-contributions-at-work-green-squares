@@ -1,7 +1,8 @@
 Screenshot of my private work github account to track green squares 
 
-### 2024 (last updated: Aug. 7 2024)
-![image](https://github.com/user-attachments/assets/3af347f6-54f3-43be-a1e9-eb10cf3472ee)
+### 2024 (last updated: Oct. 4 2024)
+![image](https://github.com/user-attachments/assets/10400b7f-f921-4cc0-9f52-b5323aa2fd4c)
+
 
 
 
