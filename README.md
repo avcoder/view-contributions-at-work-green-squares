@@ -1,7 +1,10 @@
 Screenshot of my private work github account to track green squares 
 
-### 2024 (last updated: Nov. 29 2024)
-![image](https://github.com/user-attachments/assets/a6c4553f-3afd-4050-a73b-f3ef258199cd)
+### 2025 (last updated: Jan. 6 2025)
+![image](https://github.com/user-attachments/assets/4cf6a2a7-1f85-44d5-9080-c71dc0018b98)
+
+### 2024
+![image](https://github.com/user-attachments/assets/3928c324-7d17-49b9-8cca-a158d0784f90)
 
 ### 2023 
 Note: As of March 2023, all my merges were "Squashed Commits" which is why there aren't many brighter green squares after that point in time. 
